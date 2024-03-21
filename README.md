@@ -34,10 +34,10 @@ feedback for score updates and game outcomes.
 
 ## 🚦 Running the Project
 download source code from Github 💾
-__git clone https://github.com/elfat-py/Bunnies__
+'__git clone https://github.com/elfat-py/Bunnies__'
 
 go to directory 📁
-__cd Bunnies__
+'__cd Bunnies__'
 
 run it 🎉
-__mvn javafx:run__
+'__mvn javafx:run__'
