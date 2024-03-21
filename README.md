@@ -20,11 +20,11 @@ feedback for score updates and game outcomes.
 
 
 ## 💫 Features
-***Dynamic Movement:*** Use arrow keys to move the rabbit character in different directions.
-***Scoring System:*** Collect carrots to increase the score and avoid garlic to prevent score reduction.
-***Win/Loss Conditions:*** The game ends with a win if a certain score threshold is reached and with a loss if the score falls below zero.
-***Visual Feedback:*** Visual cues such as changing rabbit images and score updates provide feedback to the player during gameplay.
-***Responsive Design:*** The game interface adjusts to different screen sizes, providing a consistent experience across devices.
+- ***Dynamic Movement:*** Use arrow keys to move the rabbit character in different directions.
+- ***Scoring System:*** Collect carrots to increase the score and avoid garlic to prevent score reduction.
+- ***Win/Loss Conditions:*** The game ends with a win if a certain score threshold is reached and with a loss if the score falls below zero.
+- ***Visual Feedback:*** Visual cues such as changing rabbit images and score updates provide feedback to the player during gameplay.
+- ***Responsive Design:*** The game interface adjusts to different screen sizes, providing a consistent experience across devices.
 
 
 ## 📚 Technologies Used
