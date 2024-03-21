@@ -28,8 +28,8 @@ feedback for score updates and game outcomes.
 
 
 ## 📚 Technologies Used
-***JavaFX:*** Used for creating the graphical user interface and managing game logic.
-***Java Programming Language:*** Core language for implementing game functionalities and behaviors.
+- ***JavaFX:*** Used for creating the graphical user interface and managing game logic.
+- ***Java Programming Language:*** Core language for implementing game functionalities and behaviors.
 
 
 ## 🚦 Running the Project
