@@ -33,5 +33,7 @@ feedback for score updates and game outcomes.
 
 ## To run in on your machine (PC)
 __git clone https://github.com/elfat-py/Bunnies__
+
 __cd Bunnies__
+
 __mvn javafx:run__
