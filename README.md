@@ -1,6 +1,6 @@
 # Rabbito Game
 
-'**#e9edc9 Playing the game**'
+'#e9edc9 Playing the game'
 ![InGame](https://github.com/elfat-py/Bunnies/assets/104862141/baa33307-210d-491a-b707-b110cf1edd27)
 
 '#2a9d8f Game Win!'
