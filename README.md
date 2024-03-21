@@ -1,11 +1,11 @@
 # Rabbito Game ✨
 
 
-# 📸 Images
+# 📸 In game images!
 ### Playing the game
 ![InGame](https://github.com/elfat-py/Bunnies/assets/104862141/baa33307-210d-491a-b707-b110cf1edd27)
 
-### 🔥 Game Win!'
+### 🔥 Game Win!
 ![wonDisplayScreen](https://github.com/elfat-py/Bunnies/assets/104862141/e0894e2d-3c4f-4818-b041-d93f838b11a9)
 
 ### ⚠️ Game Lost!
