@@ -1,4 +1,7 @@
 # Rabbito Game
+<span style="color: red;">Red text</span>
+<span style="color: green;">Green text</span>
+<span style="color: blue;">Blue text</span>
 
 '#e9edc9 Playing the game'
 ![InGame](https://github.com/elfat-py/Bunnies/assets/104862141/baa33307-210d-491a-b707-b110cf1edd27)
